@@ -1,5 +1,6 @@
 from PyQt5.QtWidgets import *
 from PyQt5 import QtCore
+#comment
 
 
 class RegForm(QMainWindow):
